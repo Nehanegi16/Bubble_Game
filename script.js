@@ -1,4 +1,4 @@
- var timer=6
+ var timer=15
 let hitbtn=0
 let score=0
 let clickbub
